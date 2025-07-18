@@ -213,3 +213,90 @@
 
 
 
+
+//                                          chapter : 6
+
+
+
+
+      //                                         Qno 1
+      //  ***--------------------------------(     1   )-------------------------------------*
+
+
+//       var a="result:";
+//       document.write(a );
+
+// var a=10;
+// document.write("<br>"+"Thew value of a is :"+a);
+
+
+// var Result="--------------------------------";
+//  document.write("<br>"+Result +"<br>");
+
+
+
+// var a=10;
+// var result= ++a;
+
+// document.write("The value of ++a is : " + result +"<br>");
+// document.write("Now the value of a is : "+a +"<br>");
+
+
+
+
+
+
+// var a=11;
+// var result= a++;
+
+// document.write("<br>"+"The value of a++ is : " + result +"<br>");
+// document.write("Now the value of a is : "+a +"<br>");
+
+
+
+
+
+
+// var result= --a;
+
+// document.write("<br>"+"The value of --a is : " + result +"<br>");
+// document.write("Now the value of a is : "+a +"<br>");
+
+
+// var result= a--;
+
+// document.write("<br>"+"The value of --a is : " + result +"<br>");
+// document.write("Now the value of a is : "+a +"<br>");
+
+
+
+
+ //                                        
+      //  ***--------------------------------(      Qno 2   )-------------------------------------*
+
+
+//       var a= 2;
+//       var b=1;   //1 - //0 +// 0 // + //0
+//       var result=--a - --b + ++b + b--;
+//       document.write("a is "+ a + "<br>")
+//       document.write("b is "+ b + "<br>")
+//       document.write("result is "+ result + "<br>")
+
+  //  ***--------------------------------(      Qno 3   )-------------------------------------*
+
+
+// var name=prompt("what is your name ?")
+// console.log("my name is " + name)
+
+
+//  ***--------------------------------(      Qno 4 and 5  )-------------------------------------*
+
+
+// var table=prompt("Search the Table")
+// for(var multiple = 1 ; multiple <= 10; multiple++){
+//       var result = table * multiple ;
+//       document.write("<br>"+ table + "x" + multiple + "=" + result)
+// }
+
+
+
